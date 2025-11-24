@@ -9,7 +9,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Happy Birthday! 🎉",
   description: "A special birthday celebration filled with love and memories",
-  generator: "v0.app",
+
   icons: {
     icon: [
       {
